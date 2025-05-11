@@ -9,3 +9,30 @@ If you applied to Engineering Team, you will need to complete this supplemental 
 While reviewing applicants, remember that technical skills are only a portion of what we look for. We also value soft skills such as teamwork, communication, and dedication to the team. Don't worry if your supplemental application is not perfect - we will consider your application holistically.
 
 # Instructions
+
+Most of your responsibility on the eningeering team would be to maintain the website, and working closely with our Design and Logistics team to create a website that has a creative theme, and user friendly to our hackers! The first skill we are looking for is if our engineers can surface data into **JSX components while following a design mockup.**
+
+You will be using ReactJS to complete this challenge.
+Please follow the Figma Mockup HERE, to surface the data in `EventLogistics.js`, provided in this repository in any method you wish.
+
+You do not need to follow the Figma down to every little detail, feel free to add any modifications that you see fit. However please follow the design to the best of your ability.
+
+# Evaluation
+
+What we are looking for in your submission
+* Fluency and Experience with JSX and CSS
+* Ability to follow a design specification
+* Modular and commented code - we will be working in a team, and it is important to us that you know how to write readable code in a collaborative repo.
+* Reflection and thought - as part of your reflection submission, being able to communicate to us your thought process.
+
+# Submission Materials
+
+Please submit the following in a GitHub Repository:
+* Your code. Any folders or additional ReactJS setup is allowed as well.
+* README.MD: Simple instructions to run your project as well as directory path for main code files (so we know where to look). If no instructions are provided, your submission will not be evaluated
+* Reflection.txt (or .md): A text file that answers the following questions
+    * What technologies were used
+    * What was the most challenging part of this task
+    * What is something you wish to learn or improve upon when joining our CruzHacks team
+ 
+If you have any questions, please email contact@cruzhacks.com.
