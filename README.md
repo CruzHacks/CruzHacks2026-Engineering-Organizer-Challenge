@@ -15,6 +15,8 @@ Most of your responsibility on the eningeering team would be to maintain the web
 You will be using ReactJS to complete this challenge.
 Please follow the Figma Mockup [HERE]([url](https://www.figma.com/design/SQ7Qmc7utSMpD0BwgafmGt/CruzHacks2026-Engineering-Challenge-Mockup?node-id=1-3&t=15nc3qwK7fNUuWOA-1)), to surface the data in `FAQdata.js`, provided in this repository in any method you wish.
 
+Ensure your implementation utilizes reusable components rather than hardcoded values. Your solution should dynamically render content based on the provided JSON data. Any changes to the JSON—such as adding, removing, or modifying entries—should be accurately reflected in the UI without requiring changes to the code
+
 You do not need to follow the Figma down to every little detail, feel free to add any modifications that you see fit. However please follow the design to the best of your ability.
 
 # Evaluation
