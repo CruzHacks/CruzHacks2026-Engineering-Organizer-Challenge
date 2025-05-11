@@ -13,7 +13,7 @@ While reviewing applicants, remember that technical skills are only a portion of
 Most of your responsibility on the eningeering team would be to maintain the website, and working closely with our Design and Logistics team to create a website that has a creative theme, and user friendly to our hackers! The first skill we are looking for is if our engineers can surface data into **JSX components while following a design mockup.**
 
 You will be using ReactJS to complete this challenge.
-Please follow the Figma Mockup [HERE]([url](https://www.figma.com/design/SQ7Qmc7utSMpD0BwgafmGt/CruzHacks2026-Engineering-Challenge-Mockup?node-id=1-3&t=15nc3qwK7fNUuWOA-1)), to surface the data in `FAQdata.js`, provided in this repository in any method you wish.
+Please follow the Figma Mockup ([Here](https://www.figma.com/design/SQ7Qmc7utSMpD0BwgafmGt/CruzHacks2026-Engineering-Challenge-Mockup?node-id=1-3&t=15nc3qwK7fNUuWOA-1)), to surface the data in `FAQdata.js`, provided in this repository in any method you wish.
 
 Ensure your implementation utilizes reusable components rather than hardcoded values. Your solution should dynamically render content based on the provided JSON data. Any changes to the JSON—such as adding, removing, or modifying entries—should be accurately reflected in the UI without requiring changes to the code
 
