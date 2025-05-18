@@ -37,5 +37,5 @@ Please submit the following in a GitHub Repository:
     * What technologies were used
     * What was the most challenging part of this task
     * What is something you wish to learn or improve upon when joining our CruzHacks team
- 
+ **PLEASE submit your supplemental by emailing dev@cruzhacks.com with the subject line: [FirstName] [LastName] - CruzHacks2026 Engineering Supplemental**
 If you have any questions, please email contact@cruzhacks.com.
